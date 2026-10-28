@@ -1,0 +1,17 @@
+[project]
+name = "mlops-data-vostrikova"
+version = "0.1.0"
+description = "MLOps data versioning practice with DVC and ClearML"
+authors = [
+    {name = "Alina"}
+]
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "dvc==3.63.0",
+    "clearml==2.0.2",
+    "scikit-learn==1.7.2",
+    "pandas==2.3.3"
+]
+
+[tool.poetry]
+package-mode = false
