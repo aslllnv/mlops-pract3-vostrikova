@@ -1,0 +1,22 @@
+{
+    "dataset_id": "0b666c28b1fe486d811fb1346e7b43eb",
+    "dataset_sha256": "724d80b05e39c7a72fe7631de59583c764049137f9d7089b01b5460e212c75c0",
+    "experiment_id": "1",
+    "execution_id": "97012bb5-f84b-44ba-bda8-2b92c341b54e",
+    "current_run_ids": [
+        "5db1a8f413344f18bcb5f6a95fd2ac39",
+        "95652aa9521744adaaddda9d229873af",
+        "56eab1d0fe534c63be9cc3d5a60309b5",
+        "4f6bfd2ce7f54e3fb1780a4c46e5cbd0",
+        "75397bf5b60042f4a68accc8167c71ca",
+        "75fed222a1a543db9160734681dab5bb"
+    ],
+    "best_run_id": "75fed222a1a543db9160734681dab5bb",
+    "model_uri": "runs:/75fed222a1a543db9160734681dab5bb/model",
+    "model_family": "RandomForest",
+    "test_uses_original_feature_names": true,
+    "original_and_loaded_predictions_match": true,
+    "signature_present": true,
+    "required_params_present": true,
+    "required_metrics_present": true
+}
